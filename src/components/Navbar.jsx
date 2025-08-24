@@ -100,7 +100,7 @@ const NavBar = () => {
                 > */}
                 
                 <h1 className="text-xl md:text-2xl font-bold ">
-                  Your Logo
+                  NextLev
                 </h1>
               </div>
             </Link>
