@@ -29,7 +29,7 @@ export default function About() {
             </CardHeader>
             <CardContent>
               <p className="text-gray-600 leading-relaxed">
-                At TruthGuard, we are dedicated to fighting the spread of fake news and misinformation. Our AI-powered fake news detection system leverages advanced natural language processing and machine learning to identify and flag unreliable content in real-time, ensuring users have access to trustworthy information.
+                At Newsify, we are dedicated to fighting the spread of fake news and misinformation. Our AI-powered fake news detection system leverages advanced natural language processing and machine learning to identify and flag unreliable content in real-time, ensuring users have access to trustworthy information.
               </p>
             </CardContent>
           </Card>
@@ -107,7 +107,7 @@ export default function About() {
 
       {/* Footer */}
       <footer className="py-8 text-center text-gray-600">
-        <p>&copy; {new Date().getFullYear()} TruthGuard. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Newsify. All rights reserved.</p>
       </footer>
     </div>
   );

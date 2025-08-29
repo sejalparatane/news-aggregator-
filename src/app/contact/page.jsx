@@ -131,7 +131,7 @@ export default function Contact() {
                   <h3 className="text-lg font-semibold text-theme-purple">Phone</h3>
                   <p className="text-gray-600">
                     <a href="tel:+1234567890" className="hover:underline">
-                      +1 (234) 567-890
+                      +91 9428764983
                     </a>
                   </p>
                 </div>
@@ -141,8 +141,8 @@ export default function Contact() {
                 <div>
                   <h3 className="text-lg font-semibold text-theme-purple">Address</h3>
                   <p className="text-gray-600">
-                    123 News Street, Suite 100<br />
-                    San Francisco, CA 94105, USA
+                    123 MGM university <br />
+                    Ch. Sambhajinagar, maharashtra, India
                   </p>
                 </div>
               </div>
