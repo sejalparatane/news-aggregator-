@@ -129,6 +129,7 @@ export default function HomePage() {
           </PopoverTrigger>
           <PopoverContent className="w-auto p-0">
             <Calendar
+            className={"bg-white"}
               mode="single"
               selected={fromDate}
               onSelect={setFromDate}
