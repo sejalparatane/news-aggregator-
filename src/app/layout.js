@@ -35,8 +35,8 @@ export default function RootLayout({ children }) {
           </ReduxProvider>
 
         <Toaster />
-      </body>
       <Footer></Footer>
+      </body>
     </html>
   );
 }
