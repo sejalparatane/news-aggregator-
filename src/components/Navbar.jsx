@@ -167,7 +167,7 @@ const NavBar = () => {
                 <Moon className="w-5 h-5" />
               )}
             </button> */}
-            {!user ? (
+              {!user ? (
               <CustomBtn
                 onClick={handleLogin}
                 className="flex items-center space-x-2 px-4 py-2 rounded-full text-base font-medium text-white bg-theme-purple hover:shadow-lg transition-all duration-300 mt-2"
