@@ -4,7 +4,7 @@ import React from 'react'
 const ChatbotPage = () => {
   return (
     <>
-      <main className="">
+      <main className="px-0 md:px-10 lg:px-16">
 
           <ChatInterface/>
 
