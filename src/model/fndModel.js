@@ -4,7 +4,7 @@ import { GoogleGenAI, Type } from "@google/genai";
 const genAI = new GoogleGenAI({ apiKey: process.env.NEXT_PUBLIC_GEMINI_API_KEY }); // Ensure API key is set in environment variables
 
 // Define the schema for fake news detection report
-const fakeNewsReportSchema = {
+export const fakeNewsReportSchema = {
   description: "Detailed fake news detection report based on textual, linguistic, source, and contextual analysis",
   type: Type.OBJECT,
   properties: {
